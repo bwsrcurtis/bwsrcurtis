@@ -9,9 +9,3 @@
 
 📚 Outside the world of tech, I enjoy reading. Some of my favorites are **Frankenstein** by _Mary Shelley_ and **The Picture of Dorian Gray** by _Oscar Wilde_. I think there is little that broadens your mind like getting lost in a book.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-## 🔥 My Stats: <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bwsrcurtis&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwsrcurtis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
