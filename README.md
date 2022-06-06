@@ -1,5 +1,8 @@
 # Hi there 👋
 ## 🚀 About Me
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 🎓 I am Curtis Bowser, a **Software Developer**, with a bachelor's degree in **Economics**.
 
 🌱 I enjoy working consistently on new projects and learning new technologies. Recently I have been working on my skills in **Django** and **Flask**, along with getting better in **JavaScript**. The first language I learned was **Python**. I am currently working to break into the field.
