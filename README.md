@@ -3,7 +3,7 @@
 
 
 
-🎓 I am Curtis Bowser, a **Software Developer**, with a bachelor's degree in **Economics**.
+🎓 I am Curtis Bowser, a **Web Developer**, with a bachelor's degree in **Economics**.
 
 🌱 I enjoy working consistently on new projects and learning new technologies. Recently I have been working in **React**, along with improving in **JavaScript**. The first language I learned was **Python**. 
 
