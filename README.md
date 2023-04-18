@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Gardienne](https://github.com/planta)
 
-- 👨‍💻 All of my projects are available at [https://curtisbowser.com](https://curtisbowser.com)
+- 👨‍💻 All of my projects are available at [CurtisBowser.com](https://curtisbowser.com)
 
 - 💬 Ask me about **React, NextJS**
 
