@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bwsrcurtis@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://curtisbowser.com/Bowser%20Curtis%20Resume.pdf)
+- 📄 Know about my experiences [Resume](https://www.curtisbowser.com/BowserCurtisResume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
