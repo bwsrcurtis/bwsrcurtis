@@ -9,14 +9,12 @@
 
 - 💬 Ask me about **React, NextJS**
 
-- 📫 How to reach me **bwsrcurtis@gmail.com**
+- 📫 Reach me here **bwsrcurtis@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.curtisbowser.com/BowserCurtisResume.pdf)
+- 📄 My experiences [Resume](https://www.curtisbowser.com/BowserCurtisResume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/bwsrcurtis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bwsrcurtis" height="30" width="40" /></a>
-<a href="https://twitter.com/curtis_bowser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="curtis_bowser" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bwsrcurtis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bwsrcurtis" height="30" width="40" /></a>
 </p>
 
