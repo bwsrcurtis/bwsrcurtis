@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Curtis Bowser</h1>
 <h3 align="center">A passionate full stack developer from Maryland</h3>
 
-<p align="left"> <a href="https://twitter.com/curtis_bowser" target="blank"><img src="https://img.shields.io/twitter/follow/curtis_bowser?logo=twitter&style=for-the-badge" alt="curtis_bowser" /></a> </p>
 
 - 🔭 I’m currently working on [Poetry.AI](https://poetrygen.netlify.app/)
 
